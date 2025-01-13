@@ -1,4 +1,4 @@
-# College Management System
+# Amrita College Management System
 College management system is an integrated console based application that handles various academic activities of a College. It is a mini python project that is used to keep and maintain the complete record of Students. It was developed using Python Tkinter and used sqlite3.
 
 
@@ -11,11 +11,3 @@ College management system is an integrated console based application that handle
 - __Marksheet__: Over here we can search students mark sheet via roll number and also we can instantly add new mark sheet too into the local database.
 
 
-## Getting Started with Development
-
-
-##### Clone Git respository:
-```
-git clone https://github.com/Prashant1099/College-Management-System.git
-```
-Great! now you can work on it :tada:
